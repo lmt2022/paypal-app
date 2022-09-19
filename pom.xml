@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>wellsfargo-atm-deployment</finalName>
+		<finalName>ruff-inc</finalName>
 		
 		<plugins>
 			<plugin>
