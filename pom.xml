@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>wellsfargo-atm-deployment</finalName>
 		
 		<plugins>
 			<plugin>
