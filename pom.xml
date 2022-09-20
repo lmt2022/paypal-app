@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.227.215.222:8081/landmark/repository/teslaApp-releases/</url>
+	      <url>http://54.227.215.222:8081/landmark/repository/teslaApp-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
