@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
 	Landmark Technology Tesla Web Application. 
 	</h2>
-	<h2 align="center" >This Project Is In Collaboration With RuffPlay Inc. A Global Software Development Company In America</h2>
+	<h2 align="center" >This Project Is In Collaboration With RuffPlay Inc. A Global Software Development Company In America and Africa</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
