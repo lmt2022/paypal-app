@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ruff-inc</finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
